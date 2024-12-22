@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto&display=swap');
+
+.main-title {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+line-height: 30.52px;
+}
+.main-studio {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+.main-portfoliov{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+.main-contact {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+.button-all {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;  
+}
+.button-websites {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;  
+}.button-applications {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;  
+}.button-design {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;  
+}.button-marketing {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;  
+}
+
+
+a [href^="b"] {
+    color: blue;
+}
+.link {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px; 
+}
+.link1 {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;  
+}
+.address-footer {
+    font-family: Raleway;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;  
+}
